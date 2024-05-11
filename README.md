@@ -1,2 +1,3 @@
-# IMLP
-This is an NTURAIN IMLP course
+# IMLP347
+This is an NTURAIN IMLP course 
+莊文翰
